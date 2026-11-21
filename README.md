@@ -1,6 +1,6 @@
 ### Oi, eu sou o Bruno 👋
 
-Desenvolvedor em São Paulo. Construo aplicações completas com **JavaScript, TypeScript, React, Node.js e Python**, e trabalho de forma *AI-native*: escrevo a especificação, oriento agentes de IA (Claude Code e Codex) e reviso cada mudança antes de entregar.
+Desenvolvedor em São Paulo, com base em Análise e Desenvolvimento de Sistemas no **Instituto Federal de São Paulo (IFSP)**. Construo e publico aplicações completas com **JavaScript, TypeScript, React, Node.js e Python**, e entrego resultado testado: cada projeto sai com testes, revisão de código e uso real.
 
 **Projetos**
 
@@ -12,6 +12,6 @@ Desenvolvedor em São Paulo. Construo aplicações completas com **JavaScript, T
 | [caderno-de-leitura](https://github.com/banzaki/caderno-de-leitura) | App local de leitura com leitor de PDF/EPUB e notas. 39 testes. | Node.js, SQLite |
 | [porteiro](https://github.com/banzaki/porteiro) | Extensão de navegador que bloqueia distrações e pede o motivo antes de abrir. | JavaScript, Manifest V3 |
 
-**Como eu trabalho:** especificação com critério de pronto → implementação → testes → revisão → commits pequenos. Segredos fora do código e ação irreversível só com aprovação humana.
+**Como eu trabalho:** especificação com critério de pronto → implementação → testes → revisão → commits pequenos, com as ferramentas mais atuais de desenvolvimento. Segredos fora do código e ação irreversível só com aprovação.
 
 [LinkedIn](https://linkedin.com/in/brunoqueiroz2024) · [warzil.com.br](https://warzil.com.br)
